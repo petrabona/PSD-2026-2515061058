@@ -40,7 +40,7 @@ _else_ dan _expect ValueError_ digunakan apabila pengguna memasukkan data yang t
 program. Apabila dipanggil, bagian ini akan mengubah _running_ menjadi _False_ yang akan menghentikan program. _else_ yang melingkup
 semua program ini akan mengembalikan _print_ untuk memberitahu pengguna untuk memasukkan pilihan yang tersedia.
 
-Fungsi _if __ name __ == "__ main __" adalah untuk memanggil _main()_ sehingga program dapat berjalan.
+Fungsi _if __ name __ == " __ main __ "_ adalah untuk memanggil _main()_ sehingga program dapat berjalan.
 
 Gambar Output:
 ![Gambar Output](https://github.com/petrabona/PSD-2026-2515061058/blob/724cc6e5acb8df45ed0930a57fafbaedcabaabfb/assets/Screenshot%202026-04-25%20185821.png)
