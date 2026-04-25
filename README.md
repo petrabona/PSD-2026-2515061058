@@ -9,4 +9,4 @@ Program ini menggunakan struktur data _1D List_ yang melibatkan penggunaan _appe
 _indexing_ untuk memberikan referensi penunjuk pada tiap data yang dimasukkan, dan _push/pop_ yang berfungsi sebagai metode untuk
 memanipulasi isi data dalam _list_ yang dibuat.
 
-![assets/Screenshot 2026-04-25 092948.png]
+![PSD-2026-2515061058/assets/Screenshot 2026-04-25 092948.png]
