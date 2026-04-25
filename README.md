@@ -12,3 +12,8 @@ memanipulasi isi data dalam _list_ yang dibuat.
 Gambar Source Code:
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-04-25%20185602.png)
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/ddabfe1173da8c6c952e53c4429540a85ab3a9df/assets/Screenshot%202026-04-25%20185623.png)
+![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/72b7ba6de40b5fb19c6c3969f44f539dadbb2e2c/assets/Screenshot%202026-04-25%20185647.png)
+
+test
+
+Gambar Output:
