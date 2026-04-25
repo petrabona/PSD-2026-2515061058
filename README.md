@@ -47,6 +47,15 @@ Gambar Output:
 ![Gambar Output](https://github.com/petrabona/PSD-2026-2515061058/blob/3a88b3b34b8d7da7ab56ad47145e4397b64ed0eb/assets/Screenshot%202026-04-25%20185838.png)
 ![Gambar Output](https://github.com/petrabona/PSD-2026-2515061058/blob/96a9141a8d7c25a81ef1ce705ab41d300d3fb3b0/assets/Screenshot%202026-04-25%20185854.png)
 
-test
+Pada gambar pertama, terlihat saya menginputkan angka 1 sebanyak tiga kali untuk memasukkan tiga jenis nama tugas yang berbeda, yakni
+"Aljabar Matriks", "Matematika Diskrit", dan "Bahasa Indonesia" yang kemudian akan disimpan ke dalam _list_ program. Kemudian, saya 
+masukkan angka 2 untuk melihat semua tugas, yang di mana dapat terlihat ketiga nama-nama tugas sebelumnya dengan [] yang belum terisi.
+Dalam gambar kedua, Saya memasukkan angka 3 dua kali untuk mencentangkan dua tugas, yakni tugas pertama dan ketiga. Setelah itu, saya
+memasukkan kembali angka 2 yang di mana terlihat bahwa "Aljabar Matriks" dan "Bahasa Indonesia" tercentang kotak bracketnya. Setelah
+itu, saya memasukkan angka 4 untuk menghapus tugas kedua, yang di mana perintah ini menyebabkan program menghapus tugas
+"Matematika Diskrit". 
+Dalam gambar ketiga, saya masukkan angka 2 untuk melihat kembali daftar tugas, yang di mana terlihat "Aljabar Matriks" dan "Bahasa
+Indonesia" dengan bracket tercentang [X] dan hilangnya "Matematika Diskrit" dalam daftar karena perintah 4 sebelumnya.
+Setelah semua ini, saya memutuskan untuk mengakhiri sesi penggunaan dengan memasukkan angka 5, yang menyebabkan program berhenti.
 
 Link Video (YouTube)  : https://youtu.be/uUZZQNHEolQ
