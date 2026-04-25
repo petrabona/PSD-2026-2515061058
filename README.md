@@ -8,3 +8,5 @@ dalam mempertimbangkan bagaimana saya akan mengatur penggunaan waktu.
 Program ini menggunakan struktur data _1D List_ yang melibatkan penggunaan _append_ untuk penomoran data yang dimasukkan,
 _indexing_ untuk memberikan referensi penunjuk pada tiap data yang dimasukkan, dan _push/pop_ yang berfungsi sebagai metode untuk
 memanipulasi isi data dalam _list_ yang dibuat.
+
+![assets/Screenshot 2026-04-25 092948.png]
