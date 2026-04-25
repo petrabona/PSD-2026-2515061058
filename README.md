@@ -9,4 +9,4 @@ Program ini menggunakan struktur data _1D List_ yang melibatkan penggunaan _appe
 _indexing_ untuk memberikan referensi penunjuk pada tiap data yang dimasukkan, dan _push/pop_ yang berfungsi sebagai metode untuk
 memanipulasi isi data dalam _list_ yang dibuat.
 
-![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/42c8a864b6ddc1073df139b1fa6a6990129a93a3/assets/Screenshot%202026-04-25%20092948.png)
+![Gambar Source Code]([https://github.com/petrabona/PSD-2026-2515061058/blob/42c8a864b6ddc1073df139b1fa6a6990129a93a3/assets/Screenshot%202026-04-25%20092948.png](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-04-25%20185602.png))
