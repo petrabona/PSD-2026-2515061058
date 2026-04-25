@@ -17,3 +17,4 @@ Gambar Source Code:
 test
 
 Gambar Output:
+![Gambar Output](https://github.com/petrabona/PSD-2026-2515061058/blob/724cc6e5acb8df45ed0930a57fafbaedcabaabfb/assets/Screenshot%202026-04-25%20185821.png)
