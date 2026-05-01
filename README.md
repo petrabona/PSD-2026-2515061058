@@ -12,4 +12,12 @@ berulang dari elemen pertama hingga terakhir yang kemudian data-data tersebut ak
 Gambar Source Code:
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-01%20225109.png)
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-01%20225121.png)
+
+f
+
+Gambar Output Program:
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-01%20225136.png)
+![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-01%20225159.png)
+![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-01%20225210.png)
+
+f
