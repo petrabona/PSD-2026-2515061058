@@ -64,3 +64,5 @@ yaitu 15, 20, 7, dan 5 kg.
 Pada gambar ketiga terurai informasi mengenai susunan nama kontributor pembuangan sampah beserta jumlah yang dibersihkan sebelum dan setelah disusun.
 Seperti yang ditunjukkan, susunan sebelum disortir terlihat tidak rapi dengan jumlah berat terletak tidak sesuai posisinya, di mana hal ini 
 telah diselesaikan ketika fungsi bubble sort dijalankan sehingga termuat daftar kontributor yang telah disortir dari yang terbesar hingga yang terkecil.
+
+Link Video (YouTube)  :  f
