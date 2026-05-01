@@ -58,4 +58,9 @@ Gambar Output Program:
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-01%20225159.png)
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-01%20225210.png)
 
-f
+Pada gambar output pertama dan kedua, terlihat informasi yang telah dimasukkan oleh pengguna yakni nama-nama tiap kontributor beserta kontribusi pembersihan
+sampah yang dilakukan (diukur dalam kg). Terdapat 4 kontributor yang dimasukkan, yakni Jun, Jin, Jon, dan Jan, beserta kontribusinya masing-masing
+yaitu 15, 20, 7, dan 5 kg.
+Pada gambar ketiga terurai informasi mengenai susunan nama kontributor pembuangan sampah beserta jumlah yang dibersihkan sebelum dan setelah disusun.
+Seperti yang ditunjukkan, susunan sebelum disortir terlihat tidak rapi dengan jumlah berat terletak tidak sesuai posisinya, di mana hal ini 
+telah diselesaikan ketika fungsi bubble sort dijalankan sehingga termuat daftar kontributor yang telah disortir dari yang terbesar hingga yang terkecil.
