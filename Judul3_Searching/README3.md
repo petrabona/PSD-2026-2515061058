@@ -55,3 +55,6 @@ memasukkan nilai apa yang ingin dicari oleh pengguna (antara 1 sampai dengan 5),
 menunjukkan pengeluarannya bahwa angka 4 ditemukan sebanyak tiga kali.
 
 Link Video (YouTube)  : https://youtu.be/PJ5BqbmB4VM
+
+Gambar Pengerjaan Binary Interpolation Searching:
+![Gambar Binary](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/binary_interpolation_searching.png)
