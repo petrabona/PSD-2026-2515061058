@@ -111,7 +111,7 @@ def main():
             print("Sesi manajemen penitipan barang diakhiri.")
             break
         else:
-            print("Pilihan tidak valid. Harap masukkan angka1 antara 1 dan 6.")
+            print("Pilihan tidak valid. Harap masukkan angka antara 1 dan 6.")
 
 if __name__ == "__main__":
     main()
