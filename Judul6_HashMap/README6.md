@@ -6,6 +6,7 @@ Gambar Source Code:
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-06-04%20222209.png)
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-06-04%20222230.png)
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-06-04%20222230.png)
+![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-06-04%20222652.png)
 
 Baris 1 - 5 merupakan bagian di mana class Node didefinisikan, di mana di dalamnya terdapat fungsi "**init**(self, key, value)" yang berperan untuk menginisialisasi key (nomor loker), value (deskripsi barang), dan next yang digunakan untuk menghubungkan node satu dengan node lainnya pada metode Separate Chaining.
 
