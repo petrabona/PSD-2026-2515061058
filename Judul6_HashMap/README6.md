@@ -27,20 +27,13 @@ Baris 61 - 63 merupakan bagian yang mendefinisikan fungsi clear_all. Fungsi ini 
 
 Baris 65 - 66 merupakan bagian yang mendefinisikan fungsi main. Pada bagian ini program membuat objek hashmap dari class HashMapSeparateChaining yang akan digunakan untuk menyimpan seluruh data penitipan barang.
 
-Baris 68 - 113 merupakan bagian yang berfungsi sebagai antarmuka interaksi dengan pengguna. Program akan terus berjalan menggunakan while loop hingga pengguna memilih untuk mengakhiri sesi. Pada bagian ini program menampilkan enam pilihan menu, yaitu Titip Barang, Lihat Daftar Barang Dititipkan, Cari Barang, Ambil Barang, Bersihkan Semua Titipan, dan Akhiri Sesi.
-
-Jika pengguna memasukkan angka 1, maka program akan meminta nomor loker dan deskripsi barang. Setelah itu program akan memanggil fungsi insert untuk menyimpan data tersebut ke dalam hash map. Jika nomor loker yang dimasukkan bukan bilangan bulat, maka program akan menampilkan pesan kesalahan.
-
-Jika pengguna memasukkan angka 2, maka program akan memanggil fungsi display untuk menampilkan seluruh barang yang sedang dititipkan beserta posisi bucket tempat data tersebut disimpan.
-
-Jika pengguna memasukkan angka 3, maka program akan meminta nomor loker yang ingin dicari. Selanjutnya program menjalankan fungsi search untuk mencari barang tersebut. Apabila ditemukan, program akan menampilkan deskripsi barang yang tersimpan. Jika tidak ditemukan, program akan menampilkan pesan bahwa barang tidak ditemukan. Program juga akan menampilkan pesan kesalahan apabila input bukan bilangan bulat.
-
-Jika pengguna memasukkan angka 4, maka program akan meminta nomor loker barang yang akan diambil. Selanjutnya program menjalankan fungsi remove_key untuk menghapus data tersebut dari hash map. Apabila berhasil, program akan menampilkan notifikasi keberhasilan. Jika nomor loker tidak ditemukan, program akan menampilkan pesan bahwa barang tidak ditemukan. Program juga akan menampilkan pesan kesalahan apabila input bukan bilangan bulat.
-
-Jika pengguna memasukkan angka 5, maka program akan menjalankan fungsi clear_all yang akan menghapus seluruh data titipan barang dari sistem.
-
+Baris 68 - 113 merupakan bagian yang berfungsi sebagai antarmuka interaksi dengan pengguna. Program akan terus berjalan menggunakan while loop hingga pengguna memilih untuk mengakhiri sesi. Pada bagian ini program menampilkan enam pilihan menu, yaitu Titip Barang, Lihat Daftar Barang Dititipkan, Cari Barang, Ambil Barang, Bersihkan Semua Titipan, dan Akhiri Sesi. 
+Jika pengguna memasukkan angka 1, maka program akan meminta nomor loker dan deskripsi barang. Setelah itu program akan memanggil fungsi insert untuk menyimpan data tersebut ke dalam hash map. Jika nomor loker yang dimasukkan bukan bilangan bulat, maka program akan menampilkan pesan kesalahan. 
+Jika pengguna memasukkan angka 2, maka program akan memanggil fungsi display untuk menampilkan seluruh barang yang sedang dititipkan beserta posisi bucket tempat data tersebut disimpan. 
+Jika pengguna memasukkan angka 3, maka program akan meminta nomor loker yang ingin dicari. Selanjutnya program menjalankan fungsi search untuk mencari barang tersebut. Apabila ditemukan, program akan menampilkan deskripsi barang yang tersimpan. Jika tidak ditemukan, program akan menampilkan pesan bahwa barang tidak ditemukan. Program juga akan menampilkan pesan kesalahan apabila input bukan bilangan bulat. 
+Jika pengguna memasukkan angka 4, maka program akan meminta nomor loker barang yang akan diambil. Selanjutnya program menjalankan fungsi remove_key untuk menghapus data tersebut dari hash map. Apabila berhasil, program akan menampilkan notifikasi keberhasilan. Jika nomor loker tidak ditemukan, program akan menampilkan pesan bahwa barang tidak ditemukan. Program juga akan menampilkan pesan kesalahan apabila input bukan bilangan bulat. 
+Jika pengguna memasukkan angka 5, maka program akan menjalankan fungsi clear_all yang akan menghapus seluruh data titipan barang dari sistem. 
 Jika pengguna memasukkan angka 6, maka program akan menampilkan pesan bahwa sesi manajemen penitipan barang telah diakhiri dan menghentikan perulangan menggunakan break.
-
 Apabila pengguna memasukkan pilihan selain angka 1 sampai 6, maka program akan menampilkan pesan bahwa pilihan tidak valid dan meminta pengguna untuk memasukkan pilihan yang benar.
 
 Baris 115 - 116 merupakan bagian yang menjalankan program utama. Pada bagian ini fungsi main() akan dipanggil apabila file dijalankan secara langsung, yaitu ketika kondisi **name** == "**main**" terpenuhi.
