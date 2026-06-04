@@ -39,11 +39,11 @@ Baris 116 - 117 merupakan bagian yang menjalankan program utama. Pada bagian ini
 
 
 Gambar Output Program:
-![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-22%20133742.png)
-![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-22%20133758.png)
-![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-22%20133908.png)
-![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-22%20133924.png)
+![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-06-04%20223439.png)
+![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-06-04%20223457.png)
+![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-06-04%20223511.png)
+![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-06-04%20223523.png)
 
-Pada gambar output program, terlihat pengguna menggunakan fungsi nomor 1 untuk memasukkan pasien pasien baru dalam urutan berikut: 1, 2, 3, 4, 5, 6, 7. Setelah pengguna memasukkan semua informasi antrean pasien yang diinginkan, pengguna lanjut dengan menggunakan fitur pada nomor 3 yang memuat daftar yang berisikan pasien-pasien yang telah diisi sebelumnya. Setelah itu, pengguna menggunakan fitur nomor 4 untuk mencari nomor pasien setelah pasien ke 6, di mana program menunjukkan bahwa pasien setelah nomor 6 adalah nomor 7. Lalu, pengguna menggunakan fitur nomor 5 untuk mencari nomor pasien sebelum 6, di mana program menunjukkan bahwa pasien sebelum nomor 6 adalah nomor 5. Pengguna kemudian menggunakan fitur nomor 2 untuk menghapus beberapa antrean pasien yang telah dilayani, yaitu 7 dan 6, di mana program menunjukkan keberhasilan dalam menghapus data-data tersebut dengan menunjukkan daftar pasien setelah penghapusan (pada penghapusan nomor 7, daftar menjadi [6, 5, 4, 3, 2, 1], dan setelah penghapusan nomor 6, daftar menjadi [5, 4, 3, 2, 1]. Terakhir, setelah pengguna merasa ingin menyelesaikan sesi penggunaan program, pengguna memasukkan nomor 6 pada sistem yang merupakan opsi yang akan menghentikan sesi penggunaan sistem.
+Pada
 
 Link YouTube: 
