@@ -35,7 +35,7 @@ Jika pengguna memasukkan angka 5, maka program akan menjalankan fungsi clear_all
 Jika pengguna memasukkan angka 6, maka program akan menampilkan pesan bahwa sesi manajemen penitipan barang telah diakhiri dan menghentikan perulangan menggunakan break.
 Apabila pengguna memasukkan pilihan selain angka 1 sampai 6, maka program akan menampilkan pesan bahwa pilihan tidak valid dan meminta pengguna untuk memasukkan pilihan yang benar.
 
-Baris 115 - 116 merupakan bagian yang menjalankan program utama. Pada bagian ini fungsi main() akan dipanggil apabila file dijalankan secara langsung, yaitu ketika kondisi **name** == "**main**" terpenuhi.
+Baris 116 - 117 merupakan bagian yang menjalankan program utama. Pada bagian ini fungsi main() akan dipanggil apabila file dijalankan secara langsung, yaitu ketika kondisi **name** == "**main**" terpenuhi.
 
 
 Gambar Output Program:
