@@ -1,6 +1,6 @@
 Judul Program  :  Program Manajemen Penitipan Barang di Mall
 
-Program ini merupakan contoh implementasi dari _Binary Search Tree_ pada Python. Program ini berfungsi sebagai sistem yang memungkinkan pengguna untuk mensimulasikan pengelolaan informasi mengenai antrean pasien pada sebuah klinik, dengan fitur-fitur seperti memasukkan informasi pasien baru, menghapus antrean pasien yang telah dilayani, melihat pasien selanjutnya setelah pasien yang dilihat, dan lain sebagainya. Alasan pemilihan dari tema ini adalah karena saya terinspirasi pada sistematika antrean otomatis yang digunakan pada sebuah klinik yang pernah saya datangi dengan orang tua sebelumnya. 
+Program ini merupakan contoh implementasi dari _Hash Map_ pada Python. Program ini berfungsi sebagai sistem yang memungkinkan pengguna untuk melakuka proses penanganan barang titipan pengunjung pada sebuah mall dengan fitur kategorisasi indeks berdasarkan kunci (_key_) dari barang (_value_) tersebut, sehingga dapat dengan mudah dicari dan dikembalikan kepada pengunjung yang terkait tanpa perlu melakukan pencarian barang secara manual. Alasan dari pemilihan tema ini adalah karena saya terinspirasi oleh sistem penanganan barang titipan pelanggan yang ada pada suatu mall yang saya kunjungi beberapa hari sebelumnya.
 
 Gambar Source Code:
 ![Gambar Source Code](https://github.com/petrabona/PSD-2026-2515061058/blob/main/assets/Screenshot%202026-05-22%20133133.png)
